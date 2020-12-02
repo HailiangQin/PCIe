@@ -2,5 +2,5 @@
 
 <manifest>
 	<remote name="demo" fetch="git://github.com/HailiangQin" revision="master" />
-	<project path="hello" name="helo" />
+	<project path="import" name="pcie" />
 </manifest>
